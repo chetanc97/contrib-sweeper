@@ -2,6 +2,7 @@
 
 A very helpful tool to sweep contributions on Github, Gitlab , Bitbucket or any other Git source control   
 You can also create patterns or charts with this tool or simply make your contributions Green.
+Update your contributions chart using this tool..
 
 # Before You Begin
 
