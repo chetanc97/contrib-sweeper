@@ -4,6 +4,10 @@ A very helpful tool to sweep contributions on Github, Gitlab , Bitbucket or any 
 You can also create patterns or charts with this tool or simply make your contributions Green.                   
 Update your contributions chart using this tool..
 
+# Note
+
+Works for windows . Very soon will support other operating systems .
+
 # Before You Begin
 
 Before you begin we recommend you  to pull or pull merge so that you have latest head from remote .
