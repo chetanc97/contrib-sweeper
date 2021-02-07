@@ -11,7 +11,10 @@ Works for windows . Very soon will support other operating systems .
 # Before You Begin
 
 Before you begin we recommend you  to 
- * pull or pull merge so that you have latest head from remote .
+
+ * Fork the contrib-sweeper repository , so that you have access to git push on your own repo *(Important step)
+
+ * Pull or pull merge so that you have latest head from remote .
 
 # Basic Usage
 
