@@ -10,7 +10,8 @@ Works for windows . Very soon will support other operating systems .
 
 # Before You Begin
 
-Before you begin we recommend you  to pull or pull merge so that you have latest head from remote .
+Before you begin we recommend you  to 
+ * pull or pull merge so that you have latest head from remote .
 
 # Basic Usage
 
